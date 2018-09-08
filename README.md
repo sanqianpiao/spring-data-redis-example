@@ -1,4 +1,4 @@
-##About
+## About
 This project was forked & modified to test redis concurrency and its efficiency.
 
 In case you don't have redis, I recommend to you install one using docker.
